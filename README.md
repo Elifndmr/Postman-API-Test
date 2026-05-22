@@ -1,13 +1,9 @@
 \# Hotel Booking API Testing Project
 
-
-
 This project is an API testing project created using Postman for the Restful Booker API.
 
 
-
-
-
+---
 
 
 \## API Source
@@ -15,9 +11,7 @@ This project is an API testing project created using Postman for the Restful Boo
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 
-
-
-
+---
 
 
 \## Purpose
@@ -25,19 +19,15 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 This project was created to practice API testing using Postman, including authentication and booking management operations.
 
 
-
-
-
+---
 
 
 \## Test Scenarios
 
 
-
 \### Authentication
 
 * CreateToken
-
 
 
 \### Booking Operations
@@ -50,27 +40,19 @@ This project was created to practice API testing using Postman, including authen
 * DeleteBooking
 
 
-
-
-
+---
 
 
 \## Project Files
-
-
 
 * hotel-booking-api-collection.json (Postman test collection)
 * hotel-booking-api-environment.json (Environment variables)
 
 
-
-
-
+---
 
 
 \## How to Run
-
-
 
 1. Open Postman
 2. Import 'hotel-booking-api-collection.json'
